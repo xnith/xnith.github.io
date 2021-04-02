@@ -1,4 +1,6 @@
 #+TITLE: XNITH
+#+OPTIONS: toc:nil
 
 * About me
+:UNNUMBERED: t
 no
