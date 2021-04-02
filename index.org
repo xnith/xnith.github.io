@@ -1,6 +1,6 @@
 #+TITLE: XNITH
 #+OPTIONS: toc:nil
+#+OPTIONS: num:nil
 
 * About me
-:UNNUMBERED: t
 no
