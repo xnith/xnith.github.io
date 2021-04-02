@@ -1,0 +1,25 @@
+#+TITLE: LYRICS
+#+OPTIONS: num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="zenburn.css" />
+
+* 戸川純 -- ヘリクツBOY
+
+| 詭弁にすぎない くどき文句ね                   | Kiben ni suginai kudoki monku ne                   |
+| 愛の言葉さえ唯心的なの (アナロッてるわ)       | ai no kotoba sae yuishin-tekina no (anarotteru wa) |
+| 方法論で成り立っても                          | hōhō-ron de naritatte mo                           |
+| 実践性に欠けているのよ                        | jissen-sei ni kakete iru no yo                     |
+| 観念的だわ ヘリクツBoy                        | kan'nen-tekida wa herikutsu Boy                    |
+| 乙女心 見抜けない人                           | otomekokoro minukenai hito                         |
+| 形而上的に好きだよなんて                      | keijijō-teki ni sukidayo nante                     |
+| ペダンチックでまわりくどいわ  ( 抽象的なのよ) | pedanchikkude mawarikudoi wa (chūshōtekina no yo)  |
+| 現象として 私のこと                           | genshō to shite watashinokoto                      |
+| とらえられない 偏執的ね                       | torae rarenai henshitsuteki ne                     |
+| 認識不足よ ヘリクツBoy                        | ninshiki fusoku yo herikutsu Boy                   |
+| 女の子はキスが大好き                          | on'nanoko wa kisu ga daisuki                       |
+| (あなたのこと 好きだったのに)                 | (anata no koto sukidattanoni)                      |
+| (理屈っぽいんだもん 私帰る)                   | (rikutsuppoi nda mon watashi kaeru)                |
+| そろそろ限界 ヘリクツBoy                      | sorosoro genkai herikutsu Boy                      |
+| そろそろ限界 ヘリクツBoy                      | sorosoro genkai herikutsu Boy                      |
+| ヘリクツBoy...                                | herikutsu Boy...                                   |
+| ヘリクツBoy...                                | herikutsu Boy...                                   |
+

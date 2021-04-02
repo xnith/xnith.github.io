@@ -1,6 +1,15 @@
-#+TITLE: XNITH
-#+OPTIONS: toc:nil
-#+OPTIONS: num:nil
-
-* About me
+#+TITLE: xnith
+#+OPTIONS: toc:nil num:nil title:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="zenburn.css" />
+* about me
 no
+
+* things used to make this page
+- [[https://orgmode.org][emacs org mode]]: saves me from a lot of headaches writing webpages and latex 
+- [[https://en.wikipedia.org/wiki/Wikipedia:Zenburn][zenburn theme]]: a low contrast colour theme that i have been using since forever
+
+* useful(?) things
+- [[./lyrics.html][lyrics]]: lyrics that are sucky to find around the interwebs
+
+
+
