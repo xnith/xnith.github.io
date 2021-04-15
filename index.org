@@ -8,8 +8,9 @@ no
 - [[https://orgmode.org][emacs org mode]]: saves me from a lot of headaches writing webpages and latex 
 - [[https://en.wikipedia.org/wiki/Wikipedia:Zenburn][zenburn theme]]: a low contrast colour theme that i have been using since forever
 
-* useful(?) things
-- [[./lyrics.html][lyrics]]: lyrics that are sucky to find around the interwebs
+* """art"""
+- [[./gallery.html][nice free things]] a digital gallery of things i can keep but do not own
+
 
 
 
