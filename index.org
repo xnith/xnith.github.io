@@ -11,6 +11,10 @@ no
 * """art"""
 - [[./gallery.html][nice free things]]: a digital gallery of things i can keep but do not own
 
+* misc.
+- [[./lyrics.html][lyrics]]: lyrics that are a pain in the ass to find on the internet. very useful for karaoke. yes it is currently just 1 song.
+    
+
 
 
 
