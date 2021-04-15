@@ -9,7 +9,7 @@ no
 - [[https://en.wikipedia.org/wiki/Wikipedia:Zenburn][zenburn theme]]: a low contrast colour theme that i have been using since forever
 
 * """art"""
-- [[./gallery.html][nice free things]] a digital gallery of things i can keep but do not own
+- [[./gallery.html][nice free things]]: a digital gallery of things i can keep but do not own
 
 
 
