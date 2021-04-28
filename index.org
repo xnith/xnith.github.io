@@ -1,6 +1,8 @@
 #+TITLE: xnith
 #+OPTIONS: toc:nil num:nil title:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="zenburn.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
+  
 * about me
 no
 
@@ -9,11 +11,13 @@ no
 - [[https://en.wikipedia.org/wiki/Wikipedia:Zenburn][zenburn theme]]: a low contrast colour theme that i have been using since forever
 
 * """art"""
-- [[./gallery.html][nice free things]]: a digital gallery of things i can keep but do not own
+- [[./gallery.html][nice free things]]
+#+begin_empty
+- [[./-.html][\nbsp{}]]
+#+end_empty
 
 * misc.
 - [[./lyrics.html][lyrics]]: lyrics that are a pain in the ass to find on the internet. very useful for karaoke. yes it is currently just 1 song.
-    
 
 
 
