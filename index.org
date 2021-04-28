@@ -13,7 +13,7 @@ no
 * """art"""
 - [[./gallery.html][nice free things]]
 #+begin_empty
-- [[./-.html][\nbsp{}]]
+- [[./-.html][\shy{}]]
 #+end_empty
 
 * misc.
