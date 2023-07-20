@@ -1,1 +1,23 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../themes/zenburn.css" />
+Analyses
+「色不异空，空不异色，色即是空，空即是色」
+*form is emptiness and emptiness is form*
+
+The heart sutra is possibly the most preliminary buddhist scripture in terms of exposure. Yet buddhists have spent countless lifetimes meditating on the ideas of *form* and *empty*. Why spend time delving separately into two concepts that, from the very beginning, are explicitly stated to be one and the same?
+
+A slightly easier mystery to tackle is the existence of four unique statements (and their ordering). The verbs 不异 and 即是 are of great importance here. 即是 is most easily interpreted into formal logic as "implies" (rather than an equivalence relation). 不异 is a little more difficult to construct, as it requires a double negation. The best I can do is "there is nothing that is form which is not emptiness". 
+
+1. not E => not F
+2. not F => not E
+3. F => E
+4. E => F
+
+In propositional logic, statements 1 and 2 are the negations of statements 3 and 4. The order of these statements are interesting, in the sense that the "purer" (less operations) statements proceed the intuitively more ugly double negation. However this is representative of the logical processes of buddhism. Deduce truths not by direct observation but rather by first discerning the negative space.
+
+For example, it is much more difficult to say "if A is a bat, then it is an animal" than "if A is not an animal, then it is not a bat"
+
+universality? e.g. 3 and 4 use the universal modifier and 1 and 2 use existential modifier -- begin by making existential observations of the world and follow with claims of universality
+
+The beauty of these four lines is that it captures perfectly the buddhist skepticism towards language as a tool for communicating truths. In fact, most accounts of enlightenment occur completely devoid of language and entirely of action or observation, such as the first glimpse of a cherry blossom or the moment a bucket is tipped over.
+
+*posing this dichotomy is the most truthful way to present to us its parts*. 
