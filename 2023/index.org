@@ -9,3 +9,11 @@
 - [[./writing/heart1.html][illumination of the heart]]
   
   an attempt at analysing the heart sutra in prose
+
+* reasons i still love emacs
+- kill ring
+- mathjax works out of the box in org mode
+- org mode
+- [[https://emacshorrors.com/][full of man made horrors]]
+
+

@@ -1,4 +1,4 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../themes/zenburn.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../themes/zenburn.css" />
 #+title: illumination of the heart
 
 Avalokiteshvara,
