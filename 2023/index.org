@@ -1,0 +1,11 @@
+#+title: 2023
+#+options: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../themes/zenburn.css" />
+
+* writing
+- [[./writing/heart0.html][heart attack]]
+  
+  an attempt at analysing the heart sutra
+- [[./writing/heart1.html][illumination of the heart]]
+  
+  an attempt at analysing the heart sutra in prose
