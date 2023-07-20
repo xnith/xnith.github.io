@@ -1,24 +1,4 @@
-#+TITLE: xnith
-#+OPTIONS: toc:nil num:nil title:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="zenburn.css" />
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="index.css" />
-  
-* about me
-no
-
-* things used to make this page
-- [[https://orgmode.org][emacs org mode]]: saves me from a lot of headaches writing webpages and latex 
-- [[https://en.wikipedia.org/wiki/Wikipedia:Zenburn][zenburn theme]]: a low contrast colour theme that i have been using since forever
-
-* """art"""
-- [[./gallery.html][nice free things]]
-#+begin_empty
-- [[./-.html][\shy{}]]
-#+end_empty
-
-* misc.
-- [[./lyrics.html][lyrics]]: lyrics that are a pain in the ass to find on the internet. very useful for karaoke. yes it is currently just 1 song.
-
-
-
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="themes/zenburn.css" />
+stuff i have made and put on the internet
+- [[./2021/index.html][2021]]
+- [[./2023/index.html][2023]]
